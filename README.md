@@ -4,7 +4,7 @@ In this project we will develop a webpage using HTML and CSS to display our Curr
 
  - Public link to the webpage:
 
- - Public link to figma design:
+ - Public link to figma design: https://www.figma.com/file/FGwaN23wJREN7vktbYlkTu/Untitled?node-id=0%3A1&t=POufw85M9UXZYq6B-1
 
 
 PROJECT ANALYSIS
